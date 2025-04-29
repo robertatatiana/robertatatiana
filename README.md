@@ -1,6 +1,6 @@
 ## Olá, meu nome é Roberta! 👩🏻‍💻
 
- #### Sou uma desenvolvedora júnior apaixonada por criar soluções. Tenho experiência em desenvolvimento com foco em front-end e back-end.
+ #### Sou uma desenvolvedora apaixonada por criar soluções. Tenho experiência em desenvolvimento com foco em front-end e back-end.
 
 [![Website](  https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfoliorobertamaximino.netlify.app/)
 [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberta-tatiana-2b76b1177/)
